@@ -53,3 +53,15 @@ Built for the world.
 ---
 
 The journey has only begun.
+## Foundation
+
+The AL PrimeCore foundation defines who we are, what we believe, and how we build.
+
+| Document | Purpose |
+|---|---|
+| [Identity](IDENTITY.md) | Who we are |
+| [Mission](MISSION.md) | What we do |
+| [Vision](VISION.md) | Where we're going |
+| [Philosophy](PHILOSOPHY.md) | How we think |
+| [Principles](PRINCIPLES.md) | How we operate |
+| [Manifesto](MANIFESTO.md) | What we stand for |
